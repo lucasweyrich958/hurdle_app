@@ -1,0 +1,1 @@
+python train.py --img 1280 --batch 8 --epochs 40 --data /Users/Lucas/Documents/Hurdle_App/yolov5/data/hurdle_data.yaml --cfg /Users/Lucas/yolov5/models/yolov5m.yaml --weights /Users/Lucas/yolov5/yolov5m.pt --name yolov5_hurdles
