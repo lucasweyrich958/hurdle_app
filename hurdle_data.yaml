@@ -1,4 +1,0 @@
-train: /Users/Lucas/Documents/Hurdle_App/yolov5/data/images/train
-val: /Users/Lucas/Documents/Hurdle_App/yolov5/data/images/val
-nc: 2
-names: ['hurdle', 'finish']
